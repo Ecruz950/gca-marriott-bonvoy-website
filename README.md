@@ -1,5 +1,5 @@
 # Portfolio Project: Marriott Bonvoy Hotels and Villas
-
+![web-demo](assets/video/marriott-web-demo.gif)
 ## Overview
 
 This project was developed as part of the **Global Career Accelerator (GCA)** program. It is an interactive web-based destination recommendation tool designed to help users find ideal travel spots based on their preferences—whether they're craving a **city**, **beach**, or **mountain** escape.
